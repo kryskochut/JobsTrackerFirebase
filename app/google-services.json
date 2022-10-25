@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "356442909095",
+    "firebase_url": "https://jobstracker-acc89-default-rtdb.firebaseio.com",
+    "project_id": "jobstracker-acc89",
+    "storage_bucket": "jobstracker-acc89.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:356442909095:android:1804b7956a66ec10f4ae82",
+        "android_client_info": {
+          "package_name": "edu.uga.cs.jobstrackerfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "356442909095-uuttpdpggkuj7ock081klalj2bcukrcl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAC2NNEcNr-2uM7wOkm31V_f7-U26F82ow"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "356442909095-uuttpdpggkuj7ock081klalj2bcukrcl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
